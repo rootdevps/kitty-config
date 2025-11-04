@@ -1,18 +1,24 @@
-Catppuccin Macchiato Theme for Kitty
+**Catppuccin Macchiato Theme for Kitty**
 
-🎨 Color Scheme
+*🎨 Color Scheme*
 The theme uses the beloved Catppuccin Macchiato palette:
 
 Purpose	Color	Sample
 Background	#1E1E2E	https://via.placeholder.com/15/1E1E2E/000000?text=+
+
 Foreground	#CDD6F4	https://via.placeholder.com/15/CDD6F4/000000?text=+
+
 Active Tab	#CBA6F7	https://via.placeholder.com/15/CBA6F7/000000?text=+
+
 Red	#F38BA8	https://via.placeholder.com/15/F38BA8/000000?text=+
+
 Green	#A6E3A1	https://via.placeholder.com/15/A6E3A1/000000?text=+
+
 Yellow	#F9E2AF	https://via.placeholder.com/15/F9E2AF/000000?text=+
+
 Blue	#89B4FA	https://via.placeholder.com/15/89B4FA/000000?text=+
 
-✨ Features
+*✨ Features*
 Font: Adwaita Mono (size 14.0)
 
 Transparency: background_opacity: 0.4
@@ -25,7 +31,8 @@ Beautiful tab bar with purple active tabs and dark inactive tabs
 
 Optimized for readability and long coding sessions
 
-🚀 Installation
+
+*🚀 Installation*
 Method 1: Direct Download
 Download the kitty.conf file from this repository
 
@@ -45,7 +52,7 @@ cd kitty-catppuccin-macchiato
 cp kitty.conf ~/.config/kitty/
 Restart Kitty or reload config with Ctrl+Shift+F5
 
-⚙️ Customization
+*⚙️ Customization*
 Transparency
 Adjust the background transparency to your preference:
 
@@ -78,7 +85,7 @@ Kitty Terminal v0.20.0 or newer
 
 Adwaita Mono font (or any other monospace font)
 
-🎯 Recommended Setup
+*🎯 Recommended Setup*
 For the best experience, pair this theme with:
 
 Catppuccin GTK Theme
